@@ -1,0 +1,1 @@
+copy the script.json from Il2CppDumper after following the tutorial in notes.txt in the main folder and then run run.bat, make sure you have nodejs v14 installed
