@@ -13,10 +13,14 @@ Key Features:
   - Unity GUI Rendering (Insert Button for Menu)
 
 **NOT WORKING:**
-  - All Visuals except for Stone, Sulfer, Metal, Cloth, Corpse, and Vehicle ESPs **(DO NOT WORK)** **(Player ESP is Game Crashing)**
+  - All Visuals **DO NOT WORK** except for:
+		Stone, Sulfer, Metal, Cloth, Corpse, and Vehicle Visuals
+		**(Player ESP is Game Crashing)**
   - All In Weapons Category
-  - Silent Farm/Melee **(Silent Farm is Game Crashing)**
-  - Auto Lock **(Game Crashing)**
+  - Silent Farm/Melee 
+		**(Silent Farm is Game Crashing)**
+  - Auto Lock 
+		**(Game Crashing)**
   - Always Sprint
   - Spinbot
   - Speedhack
